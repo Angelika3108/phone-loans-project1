@@ -12,3 +12,8 @@ Conclusions and suggestions:
 2.	Manager should stop giving this phone for the loans, as it generates only losses for the company.
 3.	Especially not put this phone for the loans in Nairobi region or CBD branch.
 
+## 📊 Dashboard Overview
+
+### Chart Set 
+![Chart](Charts.jpg)
+
