@@ -15,6 +15,6 @@ The data is structured across 4 sheets:
 
 ## 📊 Dashboard Overview
 
-### Chart Set 
+### Bad customers
 ![Chart](Charts.jpg)
 
