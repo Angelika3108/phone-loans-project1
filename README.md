@@ -8,7 +8,7 @@ The data is structured across 4 sheets:
 3.	Agreements - Signed agreements by clients who completed the funnel.
 4.	Task - Tasks for Data analyst.
 
-#### I used SQL queries to help me with analysis [View results folder](./results/):
+#### I used SQL queries to help me with analysis [View results folder](./Results/):
 #### 1. To extract only loans coverted from leads not in Nairobi region. Is there anything interesting? 
 
 select lead_id, lead_date, region, vehicle_model, l.application_id, 
@@ -39,5 +39,5 @@ ORDER BY year_load_paid, week_number;
 ## 📊 Dashboard Overview
 
 ### Bad customers
-![Chart](results/Charts.jpg)
+![Chart](Results/Charts.jpg)
 
