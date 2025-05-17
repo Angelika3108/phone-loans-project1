@@ -1,0 +1,4 @@
+lead_id,lead_date,region,vehicle_model,application_id,agreement_id,status,agreement_created,term_in_weeks,model,bad_customer
+287808,10/11/2022,,"Samsung Galaxy A23 64GB",421756,90219,Active,17/11/2022,52,"Samsung A23 (4 +64)",1
+290083,14/11/2022,Kiambu,"Samsung Galaxy A23 64GB",422574,90078,Active,15/11/2022,52,"Samsung A23 (4 +64)",1
+279969,30/10/2022,Kiambu,"Samsung Galaxy A23 64GB",424108,90933,Active,24/11/2022,52,"Samsung A23 (4 +64)",1
